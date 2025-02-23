@@ -1,0 +1,11 @@
+# Criar o arquivo calculadora.sh
+nano calculadora.sh
+
+# Alterar as permissões do arquivo
+chmod 644 calculadora.sh
+
+# Tornar o arquivo executável
+chmod +x calculadora.sh
+
+# Executar o script
+./calculadora.sh
