@@ -1,4 +1,4 @@
-# Logica-programacao
+# Lógica-programação
 ## Primeiro Projeto 
 ### Calculadora em Python
 
